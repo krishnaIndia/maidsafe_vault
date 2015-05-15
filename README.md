@@ -1,7 +1,7 @@
 # maidsafe_vault
 
 |Crate|Travis|Appveyor|Jenkins|Coverage|
-|:------:|:-------:|:-------:|:------:|
+|:------:|:-------:|:-------:|:-------:|:------:|
 |[![](http://meritbadge.herokuapp.com/maidsafe_vault)](https://crates.io/crates/maidsafe_vault)|[![Build Status](https://travis-ci.org/dirvine/maidsafe_vault.svg?branch=master)](https://travis-ci.org/dirvine/maidsafe_vault) | [![Build status](https://ci.appveyor.com/api/projects/status/qglf0d3o28mxid6k?svg=true)](https://ci.appveyor.com/project/dirvine/maidsafe-vault-hyyvf) | [![Build Status](http://46.101.58.141:8080/buildStatus/icon?job=maidsafe_vault_status)](http://46.101.58.141:8080/job/maidsafe_vault_status/) |[![Coverage Status](https://coveralls.io/repos/dirvine/maidsafe_vault/badge.svg)](https://coveralls.io/r/dirvine/maidsafe_vault)|
 
 
